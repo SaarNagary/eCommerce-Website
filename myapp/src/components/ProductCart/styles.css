@@ -1,0 +1,35 @@
+.productCart{
+  max-width: 80.0rem;
+  margin: 0 auto 10.0rem;
+}
+
+.productCart .hero{
+  display: block;
+  width: 100%;
+  margin: 2rem auto;
+}
+
+.productCart .hero img{
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+.productCart .productDetails ul,
+.productCart .productDetails ul li{
+  margin: 0;
+  padding: 0;
+}
+
+.productCart .productDetails ul li{
+  list-style-type: none;
+  margin: 0 auto 1rem;
+}
+
+.productCart .productDetails ul li h1{
+  margin: 0;
+}
+
+.productCart .addToCart{
+  max-width: 20.0rem;
+}
